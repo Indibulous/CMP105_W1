@@ -10,6 +10,7 @@ Level::Level(sf::RenderWindow* hwnd)
 	rect.setFillColor(sf::Color(100, 23, 83, 255));
 	rect.setOutlineColor(sf::Color(198, 64, 120, 255));
 	rect.setOutlineThickness(2);
+	//change for change
 }
 
 Level::~Level()
